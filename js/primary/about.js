@@ -33,8 +33,8 @@ function main(data) {
     console.log(data_2)
     document.querySelector("#title").innerHTML = data_2[7][1]
     document.querySelector("#subtitle").innerHTML = data_2[8][1]
-    document.querySelector("#title_2").innerHTML = data_2[7][1]
-    document.querySelector("#subtitle_2").innerHTML = data_2[8][1]
+    document.querySelector("#title_2").innerHTML = data_2[9][1]
+    document.querySelector("#subtitle_2").innerHTML = data_2[10][1]
     document.querySelector("#about_sections").innerHTML = ""
 
     
